@@ -1,0 +1,26 @@
+{
+  "name": "beecrowd-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aplaraujo/beecrowd-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aplaraujo/beecrowd-typescript/issues"
+  },
+  "homepage": "https://github.com/aplaraujo/beecrowd-typescript#readme",
+  "devDependencies": {
+    "@types/node": "^24.5.2",
+    "@types/readline-sync": "^1.4.8",
+    "readline-sync": "^1.4.10",
+    "typescript": "^5.9.2"
+  }
+}
